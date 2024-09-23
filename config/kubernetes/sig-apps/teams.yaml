@@ -69,10 +69,15 @@ teams:
   sig-apps-pr-reviews:
     description: ""
     members:
+    - alculquicondor
+    - atiratree
     - davidopp
     - enisoc
     - janetkuo
     - kow3ns
+    - krmayankk
+    - mimowo
+    - mortent
     - mfojtik
     - smarterclayton
     - soltysh
